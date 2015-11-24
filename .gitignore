@@ -7,3 +7,6 @@
 .idea
 /tmp
 .DS_Store
+bundled/matterfront-osx.dmg
+bundled/matterfront-windows.zip
+bundled/matterfront-linux.tar.bz2
