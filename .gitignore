@@ -1,9 +1,9 @@
 /node_modules
 /dist
 /config.json
-/src/config.json
 .tag*
 *npm-debug.log
 /.vagrant
 .idea
 /tmp
+.DS_Store
